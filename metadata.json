@@ -1,0 +1,9 @@
+{
+  "name": "SnapFix",
+  "description": "SnapFix makes it easy for Indian citizens to report local infrastructure issues like potholes, broken streetlights, water leakage, and road damage to earn Hero Points and improve their neighborhood.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
